@@ -1,0 +1,14 @@
+name: d4_time
+version: 1.0.0
+description: A calculator for humanity’s peculiar conventions of time.
+repository: https://github.com/luizbarboza/d4_time
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  d4_array: ^1.0.0
+
+dev_dependencies:
+  lints: ^2.1.1
+  test: ^1.22.0
